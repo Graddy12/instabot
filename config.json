@@ -1,0 +1,5 @@
+{
+    "username": "votre_username",
+    "password": "votre_mot_de_passe",
+    "utilisateurs_a_suivre": ["utilisateur1", "utilisateur2", "utilisateur3"]
+}
